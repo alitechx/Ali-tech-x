@@ -1,0 +1,31 @@
+DRAGON-MD/
+│
+├─ index.js
+├─ handler.js
+├─ config.js
+├─ package.json
+│
+├─ commands/
+│   ├─ download/
+│   ├─ group/
+│   ├─ fun/
+│   ├─ ai/
+│   ├─ anime/
+│   ├─ convert/
+│   ├─ tools/
+│   ├─ owner/
+│   └─ main/
+│
+├─ menu/
+│   ├─ main.json
+│   ├─ download.json
+│   ├─ group.json
+│   └─ fun.json
+│
+├─ assets/
+│   └─ dragon-md.jpg
+│
+└─ lib/
+    ├─ fetch.js
+    ├─ uploader.js
+    └─ util.js
