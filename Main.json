@@ -1,0 +1,10 @@
+{
+  "title": "DRAGON-MD",
+  "owner": "Ali Tech X",
+  "commands": [
+    ".ping",
+    ".menu",
+    ".ytmp3",
+    ".facebook"
+  ]
+}
